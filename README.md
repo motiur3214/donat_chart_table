@@ -7,7 +7,9 @@ link: localhost/donat_chart_table/
 sql file name: cars_db.sql
 
 
-Please copy the folder to xampp/htdocs.after that import the given sql file inside the folder pi_chart/database.
+Please copy the folder to xampp/htdocs. Inside database folder sql file is stored. 
+
+Import the given sql file to database.
 
 A sample CSV file is given in the folder car12.csv
 
