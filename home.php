@@ -72,28 +72,25 @@ $data = json_encode($data);
 
 				</div>
 				<!-- search bar end -->
-				<br><br><br>
+				<br>
 				<!-- donut chaRT -->
 				<div id="chart" style="width: 90%; height: 300px; text-align:left !important;">
 					<br>
 					<p style="text-align: center; color: tomato;">Donut Chart</p>
 				</div> 
 				<!-- END OF donut chat -->
-
-
-			</div>
+             </div>
 			<!-- show table -->
 			<div class="col-sm-9">
-
+<br><br>
 
 				<div class="table-responsive-sm" id="table_show"></div>
 			</div>
 			<!-- end of table -->
 			
 		</div>
-
-
-	</div>
+    </div>
+	<br><br><br>
 	<!-- footer -->
 	<footer class="page_footer" style="background-color:#eaf2b6;
 	text-align: left; padding-left: 1%;">
