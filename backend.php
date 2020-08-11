@@ -335,7 +335,7 @@ if($flag == 'search_result')
   <tbody style="text-align: center !important;">';
 
 
-  $search_quary="SELECT DISTINCT(id), manufacturer, model, year, producing_country FROM tbl_car_details WHERE manufacturer='$search_value' OR model='$search_value' OR year='$search_value' OR producing_country='$search_value' order by id ASC";
+  $search_quary="SELECT DISTINCT(id), manufacturer, model, year, producing_country FROM tbl_car_details WHERE manufacturer='$search_value' OR model='$search_value' OR year='$search_value' OR producing_country='$search_value' ORDER BY manufacturer ASC";
   $re_qur = $conn->query($search_quary);
 
 
