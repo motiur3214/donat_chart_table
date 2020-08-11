@@ -1,6 +1,8 @@
 # live_update_donut_chart_with-table
 
 database name is : car_details
+
+
 please unzip thn import the sql file given.
 link: localhost/pi_chart/
 
