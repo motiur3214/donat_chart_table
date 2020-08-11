@@ -4,7 +4,7 @@ database name is : cars_db
 
 link: localhost/donat_chart_table/
 
-sql file name: cars_db.sql
+sql file path: database/cars_db.sql
 
 
 Please copy the folder to xampp/htdocs. Inside database folder sql file is stored. 
