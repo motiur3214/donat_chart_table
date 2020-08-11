@@ -29,7 +29,7 @@ $data = json_encode($data);
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/morris.js/0.5.1/morris.css" />
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" /> 
-	<link rel="stylesheet" type="text/css" href="front_end.css">
+	
 </head>
 <body>
 	<!-- nav bar -->
