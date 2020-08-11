@@ -1,0 +1,17 @@
+IndexIgnore *
+
+
+php_value upload_max_filesize 10600M
+
+php_value post_max_size 10640M
+
+php_value max_execution_time 36000
+
+
+RewriteEngine On
+RewriteRule ^home home.php
+RewriteRule ^backend backend.php
+
+<ifModule mod_headers.c>
+Header set X-Frame-Options "SAMEORIGIN"
+</ifModule>
